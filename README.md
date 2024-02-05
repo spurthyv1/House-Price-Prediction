@@ -1,1 +1,2 @@
 # House-Price-Prediction
+OBJECTIVES: Purchasing a home, particularly in a city like Bengaluru, involves making a complex decision. Although there are common key factors to consider in any metropolitan area, Bengaluru, being the Silicon Valley of India, presents unique aspects that need to be taken into account. The city's young and dynamic millennial population, lively cultural scene, pleasant weather, and abundance of job prospects make it challenging to determine the housing prices in Bengaluru.
